@@ -89,7 +89,7 @@ a.tablehome:hover, a.tablehome:active {
   font-family: Proxima Nova Lighter;
   src: local("Proxima Nova Lighter"),
   local("ProximaNovaLight"),
-  url(../fonts/ProximaNova/Proxima_Nova-light.otf);
+  url(../fonts/ProximaNova/Proxima_Nova-Light.otf);
   font-weight: lighter;
 }
 
@@ -97,7 +97,7 @@ a.tablehome:hover, a.tablehome:active {
   font-family: Proxima Nova Lighter;
   src: local("Proxima Nova Lighter"),
   local("ProximaNovaLight"),
-  url(../fonts/ProximaNova/Proxima_Nova-light.otf);
+  url(../fonts/ProximaNova/Proxima_Nova-Light.otf);
   font-weight: lighter;
 }
 
@@ -127,6 +127,10 @@ h3{
     line-height: 20pt;
     padding-right: 10%;
 }
+
+
+
+
 .auto-style1 {
 	font-family: "Proxima Nova";
 	font-size: 20px;
@@ -169,6 +173,14 @@ img {
     line-height: 25px;
     padding-right: ;
 }
+
+.auto-style6 {
+	font-family: "Proxima Nova";
+	font-size: 20px;
+	color: #8a9b9f;
+    text-align: left;
+}
+
 
 .navbarright {
     float: right ;

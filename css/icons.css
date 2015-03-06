@@ -23,3 +23,29 @@ a.download {
 a.download:hover, a.download:active {
     background-color: #9460a0 ;
 }
+
+a.orgdl {
+    display: inline-block;
+    width: 180px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 12.5px ;
+    padding-bottom: 10px ;
+    text-align: center;
+    text-decoration: none;
+    margin: auto 0;
+        osition:absolute;
+
+}
+
+a.orgdl {
+    background: #ff8900;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.orgdl:hover, a.orgdl:active {
+    background-color: #ffa700 ;
+}
