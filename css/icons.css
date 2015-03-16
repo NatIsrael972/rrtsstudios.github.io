@@ -49,3 +49,29 @@ a.orgdl {
 a.orgdl:hover, a.orgdl:active {
     background-color: #ffa700 ;
 }
+
+a.osdl {
+    display: inline-block;
+    width: 180px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 12.5px ;
+    padding-bottom: 10px ;
+    text-align: center;
+    text-decoration: none;
+    margin: auto 0;
+        osition:absolute;
+
+}
+
+a.osdl {
+    background: #848484;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.osdl:hover, a.orgdl:active {
+    background-color: #969696 ;
+}

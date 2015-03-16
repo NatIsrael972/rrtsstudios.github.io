@@ -128,6 +128,13 @@ h3{
     padding-right: 10%;
 }
 
+h6{
+    font-family: "Proxima Nova";
+    font-size: 45px;
+    color: #ff207f ;
+    text-align: left;
+    line-height: 5px;
+}
 
 
 
@@ -282,9 +289,13 @@ a.tablehome1:hover, a.table1home1:active {
     background-color: #5ab1fc ;
 }
 
-
-
-
-
-
+.bodyos {
+    display: inline-block;
+    width: 1351px;
+    background-color: #727272;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
 
