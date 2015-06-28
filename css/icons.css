@@ -1,6 +1,6 @@
 a.download {
     display: inline-block;
-    width: 180px;
+    width: 220px;
     font-weight: bold;
     color: #FFFFFF;
     padding-left: 5px;
@@ -74,4 +74,30 @@ a.osdl {
 }
 a.osdl:hover, a.orgdl:active {
     background-color: #969696 ;
+}
+
+a.ibis {
+    display: inline-block;
+    width: 300px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 12.5px ;
+    padding-bottom: 10px ;
+    text-align: center;
+    text-decoration: none;
+    margin: auto 0;
+        osition:absolute;
+
+}
+
+a.ibis {
+    background: #216fd8;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.ibis:hover, a.ibus:active {
+    background-color: #1a55a5 ;
 }

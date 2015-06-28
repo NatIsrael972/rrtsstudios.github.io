@@ -1,0 +1,264 @@
+@font-face {
+  font-family: Proxima_Nova-Bold;
+  src: local("Proxima_Nova-Bold"),
+  local("Proxima_Nova-Bold"),
+  url(../fonts/ProximaNova/Proxima_Nova-Bold.otf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Proxima_Nova-Regular;
+  src: local("Proxima_Nova-Regular"),
+  local("Proxima_Nova-Regular"),
+  url(../fonts/ProximaNova/Proxima_Nova-Regular.otf);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Proxima_Nova-Light;
+  src: local("Proxima_Nova-Light"),
+  local("Proxima_Nova-Light"),
+  url(../fonts/ProximaNova/Proxima_Nova-Light.otf);
+  font-weight: lighter;
+}
+
+
+
+html, body, div, li{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+ul {
+    list-style-type: none;
+    overflow:hidden ;
+    text-align: center;
+
+}
+
+li {
+    display:inline-block;
+    font-size: 28px;
+    font-family: "Proxima_Nova-Light" ;
+    padding-top: 5px;
+}
+
+a.table:link, a.table:visited {
+    display: inline-block;
+    width: 135px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+
+
+}
+a.table {
+    background: #0089ff;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.table:hover, a.table:active {
+    background-color: #5ab1fc ;
+}
+
+
+a.tablehome:link, a.tablehome:visited {
+    display: inline-block;
+    width: 180px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: auto 0;
+        position:absolute;
+
+}
+a.tablehome {
+    background: #0089ff;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.tablehome:hover, a.tablehome:active {
+    background-color: #5ab1fc ;
+}
+
+
+
+
+h1{
+    font-family: "Proxima Nova";
+    font-size: 75px;
+    color: #74888d ;
+    text-align: center;
+    border-bottom: none;
+    line-height: 5px;
+}
+
+h2{
+    font-family: "Proxima Nova";
+    font-size: 45px;
+    color: #06bc22 ;
+    text-align: left;
+    line-height: 5px;
+}
+
+h3{
+    font-family: "Proxima_Nova-Regular";
+    font-size: 30px;
+    color: #898400 ;
+    text-align: left;
+    border-bottom: none;
+    line-height: 15pt;
+        padding-top: 30px;
+    padding-bottom: 15px;
+    padding-right: 10%;
+     margin: 0 auto;
+
+}
+
+h4{
+    font-family: "Proxima_Nova-Bold";
+    font-size: 45px;
+    color: #34aa00 ;
+    text-align: left;
+    line-height: 2px;
+    padding-top: 30px;
+    padding-bottom: 0;
+    margin: 0 auto;
+}
+
+
+
+.auto-style1 {
+	font-family: "Proxima Nova";
+	font-size: 20px;
+	color: #bababa;
+    text-align: left;
+    line-height: 20px;
+    padding-top: 7.5px;
+    margin:0 auto;
+}
+
+
+.auto-style2 {
+	font-family: "Proxima Nova";
+	font-size: 40px;
+	color: #bcbcbc;
+    text-align: left;
+    line-height: 15pt;
+}
+
+.auto-style3 {
+	font-family: "Proxima Nova";
+	font-size: 50px;
+	color: #db0a5a;
+    text-align: center;
+}
+
+.auto-style4 {
+	font-family: "Proxima Nova";
+	font-size: xx-large;
+	color: #949595;
+    text-align: left;
+}
+
+.auto-style5 {
+	font-family: "Proxima Nova";
+	font-size: 22px;
+	color: #d1d1d1;
+    text-align: left;
+    line-height: 25px;
+    padding-right: ;
+}
+
+.auto-style6 {
+	font-family: "Proxima Nova";
+	font-size: 20px;
+	color: #8a9b9f;
+    text-align: left;
+}
+
+
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 1280px;
+}
+
+.container {
+    display: block;
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.greystripimg {
+    background-color: #4a4a4a;
+    padding-left: 0;
+    margin: 0 auto;
+    position: relative;
+    min-width: 1280px;
+}
+
+.greystrip {
+    background-color: #4a4a4a;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0 auto;
+    position: relative;
+    min-width: 1280px;
+}
+
+.darkgreystrip {
+    background-color: #3b3b3b;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0 auto;
+    position: relative;
+    min-width: 1280px;
+}
+
+.lightgreystrip {
+    background-color: #333;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0 auto;
+    position: relative;
+    min-width: 1280px;
+}
+
+.bodycontainer {
+    min-height: ;
+    margin:0 auto;
+}
+
+
+
+/* ----------- Non-Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+}

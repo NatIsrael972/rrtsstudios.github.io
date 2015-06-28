@@ -1,4 +1,27 @@
 
+a.logoblue:link, a.logoblue:visited {
+    display: inline-block;
+    width: 54px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 2px;
+    padding-right: 10px;
+    padding-top: 0.5px ;
+    padding-bottom: 0.5px ;
+    margin: auto 0;
+        position:absolute;
+}
+
+a.logoblue {
+    background: #0089ff;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+a.logoblue:hover, a.logoblue:active {
+    background-color: #5ab1fc ;
+}
 
 /* ORANGE NAV BAR */
 
@@ -111,6 +134,31 @@ a.tablehomeorg:hover, a.tablehomeorg:active {
     background-color: #ff8900;
 }
 
+a.logoorg:link, a.logoorg:visited {
+    display: inline-block;
+    width: 54px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 2px;
+    padding-right: 10px;
+    padding-top: 0.5px ;
+    padding-bottom: 0.5px ;
+    margin: auto 0;
+        position:absolute;
+}
+
+a.logoorg {
+    background: #ff8900;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+a.logoorg:hover, a.logoorg:active {
+    background-color: #ffae50 ;
+}
+
+
 /* PURPLE NAV BAR */
 
 a.tablehome1ppl {
@@ -208,6 +256,30 @@ a.tablehomeppl {
     transition-property: background;
     transition-duration: 0.5s;
     transition-timing-function: linear;
+}
+
+a.logoppl:link, a.tablehomeppl:visited {
+    display: inline-block;
+    width: 54px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 2px;
+    padding-right: 10px;
+    padding-top: 0.5px ;
+    padding-bottom: 0.5px ;
+    margin: auto 0;
+        position:absolute;
+}
+
+a.logoppl {
+    background: #9966cc;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+a.logoppl:hover, a.logoppl:active {
+    background-color: #af8cd3 ;
 }
 
 a.tablehomeppl:hover, a.tablehomeppl:active {
@@ -333,6 +405,31 @@ a.tablehometur:hover, a.tablehometur:active {
     background-color: #1abc9c;
 }
 
+a.logotur:link, a.logotur:visited {
+    display: inline-block;
+    width: 54px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 2px;
+    padding-right: 10px;
+    padding-top: 0.5px ;
+    padding-bottom: 0.5px ;
+    margin: auto 0;
+        position:absolute;
+}
+
+a.logotur {
+    background: #1abc9c;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+a.logotur:hover, a.logotur:active {
+    background-color: #70c1b1 ;
+}
+
+
 /* ALIZARIN NAV BAR */
 
 a.tablehome1alz {
@@ -442,6 +539,30 @@ a.tablehomealz:hover, a.tablehomealz:active {
 
 .site-footeralz {
     background-color: #e74c3c;
+}
+
+a.logoalz:link, a.logoalz:visited {
+    display: inline-block;
+    width: 54px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 2px;
+    padding-right: 10px;
+    padding-top: 0.5px ;
+    padding-bottom: 0.5px ;
+    margin: auto 0;
+        position:absolute;
+}
+
+a.logoalz {
+    background: #e74c3c;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+a.logoalz:hover, a.logoalz:active {
+    background-color: #e3796e ;
 }
 
 /* MN BLUE NAV BAR */
@@ -555,6 +676,33 @@ a.tablehomewta:hover, a.tablehomewta:active {
     background-color: #34495e;
 }
 
+
+a.logowta:link, a.logowta:visited {
+    display: inline-block;
+    width: 54px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 2px;
+    padding-right: 10px;
+    padding-top: 0.5px ;
+    padding-bottom: 0.5px ;
+    margin: auto 0;
+        position:absolute;
+}
+
+a.logowta {
+    background: #34495e;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+a.logowta:hover, a.logowta:active {
+    background-color: #435d77 ;
+}
+
+
+
 /* GREY NAV BAR */
 
 a.tablehome1gra {
@@ -664,4 +812,28 @@ a.tablehomegra:hover, a.tablehomegra:active {
 
 .site-footergra {
     background-color: #848484;
+}
+
+a.logogra:link, a.logogra:visited {
+    display: inline-block;
+    width: 54px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 2px;
+    padding-right: 10px;
+    padding-top: 0.5px ;
+    padding-bottom: 0.5px ;
+    margin: auto 0;
+        position:absolute;
+}
+
+a.logogra {
+    background: #848484;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+
+a.logogra:hover, a.logogra:active {
+    background-color: #969696 ;
 }
