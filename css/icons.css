@@ -101,3 +101,114 @@ a.ibis {
 a.ibis:hover, a.ibus:active {
     background-color: #1a55a5 ;
 }
+
+a.youtube {
+    background: #216fd8;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.youtube:hover, a.youtube:active {
+    background-color: #1a55a5 ;
+}
+
+a.youtube {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 12.5px ;
+    padding-bottom: 10px ;
+    text-align: center;
+    text-decoration: none;
+    margin: auto 0;
+        osition:absolute;
+
+}
+
+a.youtube {
+    background: #e52d27;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.youtube:hover, a.youtube:active {
+    background-color: #b31217 ;
+}
+
+
+
+a.facebook {
+    background: #216fd8;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.facebook:hover, a.facebook:active {
+    background-color: #1a55a5 ;
+}
+
+a.facebook {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 12.5px ;
+    padding-bottom: 10px ;
+    text-align: center;
+    text-decoration: none;
+    margin: auto 0;
+        osition:absolute;
+
+}
+
+a.facebook {
+    background: #3b5998;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.facebook:hover, a.facebook:active {
+    background-color: #627cb2 ;
+}
+
+
+a.github {
+    background: #216fd8;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.github:hover, a.github:active {
+    background-color: #1a55a5 ;
+}
+
+a.github {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 12.5px ;
+    padding-bottom: 10px ;
+    text-align: center;
+    text-decoration: none;
+    margin: auto 0;
+        osition:absolute;
+
+}
+
+a.github {
+    background: #4183c4;
+    transition-property: background;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+}
+a.github:hover, a.github:active {
+    background-color: #79a0c4 ;
+}
