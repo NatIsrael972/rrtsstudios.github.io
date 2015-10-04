@@ -1,0 +1,126 @@
+/* NAVBAR */
+
+.navbar {
+position: fixed;
+top: 0;
+width: 1280px;
+height: 45px;
+color: #ffffff;
+text-align: center;
+/* Adds the transparent background */
+background-color: rgba(1, 1, 1, 0.8);
+color: rgba(1, 1, 1, 0.8);
+border-bottom: 4px solid #E66000;
+
+}
+
+.navbarR {
+position: block;
+text-align: right;
+width:1000px;
+margin:auto;
+float:right;
+padding-top: 6px;
+}
+
+.navbarL {
+position: block;
+text-align: left;
+width:200px;
+margin:auto;
+float:left;
+padding-top: 6px;
+}
+
+/* NAVBAR BUTTONS */
+a.tablelogo:link, a.tablelogo:visited {
+    display: block;
+    font-weight: normal;
+    color: #FFFFFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Fira Sans";
+    font-size: 25px;
+
+}
+
+a.tablelogo:hover, a.tablelogo:active {
+    border-bottom: 2px solid #d8d8d8
+}
+
+a.tablenav:link, a.tablenav:visited {
+    display: block;
+    font-weight: normal;
+    color: #FFFFFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+	font-family: "DIN Light";
+    font-size: 25px;
+}
+
+a.tablenav:hover, a.tablenav:active {
+    border-bottom: 2px solid #10aec3
+}
+
+/* FOOTER */
+
+.footerbar {
+position: block;
+bottom: 0;
+width: 1280px;
+height: 45px;
+color: #ffffff;
+text-align: center;
+/* Adds the transparent background */
+background-color: rgba(1, 1, 1, 0.8);
+color: rgba(1, 1, 1, 0.8);
+border-top: 4px solid #00539F;
+}
+
+.footerspacing {
+position: relative;
+bottom: 0;
+width: 1280px;
+height: 45px;
+}
+
+.footerbarR {
+position: block;
+text-align: right;
+width:1000px;
+margin:auto;
+float:right;
+padding-top: 6px;
+}
+
+.footerbarL {
+position: block;
+text-align: left;
+width:200px;
+margin:auto;
+float:left;
+padding-top: 6px;
+}
+
+/* FOOTER BUTTONS */
+a.tablefooterr:link, a.tablefooterr:visited {
+    display: block;
+    font-weight: normal;
+    color: #FFFFFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-family: "DIN Light";
+    font-size: 25px;
+
+}
+
+a.tablefooterr:hover, a.tablefooterr:active {
+    border-bottom: 2px solid #d8d8d8
+}
+
