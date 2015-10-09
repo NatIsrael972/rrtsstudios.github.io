@@ -69,7 +69,7 @@ a.tablenav:hover, a.tablenav:active {
 /* FOOTER */
 
 .footerbar {
-position: block;
+position: fixed;
 bottom: 0;
 width: 1280px;
 height: 45px;
@@ -82,7 +82,7 @@ border-top: 4px solid #00539F;
 }
 
 .footerspacing {
-position: relative;
+position: fixed;
 bottom: 0;
 width: 1280px;
 height: 45px;

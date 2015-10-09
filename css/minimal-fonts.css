@@ -2,45 +2,13 @@
 
 /* FONT-FACE BELOW */
 
-/* PROXIMANOVA FONT */
-@font-face {
-  font-family: Proxima Nova;
-  src: local("Proxima Nova Rg"),
-  local("ProximaNova"),
-  url(../fonts/ProximaNova/Proxima_Nova-Regular.otf);
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: Proxima Nova Bold;
-  src: local("Proxima Nova Bold"),
-  local("ProximaNovaBold"),
-  url(../fonts/ProximaNova/Proxima_Nova-Bold.otf);
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: Proxima Nova Lighter;
-  src: local("Proxima Nova Lighter"),
-  local("ProximaNovaLight"),
-  url(../fonts/ProximaNova/Proxima_Nova-Light.otf);
-  font-weight: lighter;
-}
-
-@font-face {
-  font-family: Proxima Nova Lighter;
-  src: local("Proxima Nova Lighter"),
-  local("ProximaNovaLight"),
-  url(../fonts/ProximaNova/Proxima_Nova-Light.otf);
-  font-weight: lighter;
-}
-
 /* LOGO FIRA */
 @font-face {
   font-family: Fira Sans;
   src: local("Fira Sans"),
   local("FiraSans"),
-  url(../fonts/FiraSans/FiraSans-Regular.ttf);
+  url(../fonts/FiraSans/FiraSans-Regular.ttf) format('truetype');
+  url(../fonts/FiraSans/FiraSans-Regular.woff) format('woff');    
   font-weight: normal;
 }
 
@@ -49,7 +17,8 @@
   font-family: DIN;
   src: local("DIN"),
   local("FiraSans"),
-  url(../fonts/DIN/din-regular-webfont.ttf);
+  url(../fonts/DIN/din-regular-webfont.woff) format('woff');
+  url(../fonts/DIN/din-regular-webfont.ttf) format('truetype');
   font-weight: normal;
 }
 
@@ -57,7 +26,8 @@
   font-family: DIN Light;
   src: local("DIN Light"),
   local("DINLight"),
-  url(../fonts/DIN/din-light-webfont.ttf);
+  url(../fonts/DIN/din-light-webfont.woff) format('woff');
+  url(../fonts/DIN/din-light-webfont.ttf) format('truetype');
   font-weight: lighter;
 }
 
