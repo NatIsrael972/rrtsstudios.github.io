@@ -21,12 +21,19 @@ li{
     padding-top: 5px;
 }
 
-.content {
+.contentone {
 width: 1280px;
 margin: 0 auto;
 display: block;
 padding-top: 50px;
 }
+
+.content {
+width: 1280px;
+margin: 0 auto;
+display: block;
+}
+
 
 .blackcontent {
 width: 1270px;
@@ -43,7 +50,7 @@ width: 1270px;
 margin: 0 auto;
 display: block;
 padding-top: 5px;
-padding-bottom: 5px;
+padding-bottom: 10px;
 padding-left: 10px;
 background-color: #383838;
 }
@@ -53,7 +60,7 @@ width: 1270px;
 margin: 0 auto;
 display: block;
 padding-top: 5px;
-padding-bottom: 5px;
+padding-bottom:10px;
 padding-left: 10px;
 background-color: #7b7b7b;
 }
@@ -66,4 +73,23 @@ padding-top: 5px;
 padding-bottom: 5px;
 padding-left: 10px;
 background-color: #cecece;
+}
+
+.mingapfill {
+width: 1270px;
+height: 100vh;
+padding-right: 10px;
+margin: 0 auto;
+display:inline-block;
+background-color: #000;
+    
+}
+
+.blackcontentfooter {
+width: 1270px;
+margin: 0 auto;
+display: block;
+padding-top: 45px;
+padding-left: 10px;
+background-color: #000;
 }
